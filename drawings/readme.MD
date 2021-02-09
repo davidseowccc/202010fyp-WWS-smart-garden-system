@@ -1,2 +1,4 @@
-This folder is for drawings in latest and R2000 dwg and pdf formats. 
-R2000 dwg format could be opened with LibreCAD v2.1.3.
+This folder is for drawings in latest and LT2000 dwg and pdf formats. 
+
+LT2000 DWG files can be opened by LibreCAD v2.1.3, an free open-source software (FOSS). 
+https://librecad.org/
