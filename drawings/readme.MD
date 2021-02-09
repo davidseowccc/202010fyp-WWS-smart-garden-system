@@ -1,1 +1,1 @@
-This folder is for drawings in pdf and dqg formats.
+This folder is for drawings in dwg, dxf and dwg ormats.
